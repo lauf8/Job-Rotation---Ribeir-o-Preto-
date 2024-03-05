@@ -8,3 +8,4 @@ while k < indice:
 
 print(soma)
 
+O resultado é 91
